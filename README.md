@@ -9,3 +9,7 @@ Molecular Diagnostics Workflow, Nucleic Acid Fundamentals, Sequence Prediction, 
 OmicsLogic: Introduction to Bioinformatics Certification
 OmicsLogic
 Multi-Omics Concepts, Big Data in Biology, Bioinformatics Pipelines, and Translational Bioinformatics 
+
+Fundamentals of Public Health Laboratories (General Certificate)
+Centers for Disease Control and Prevention (CDC) — Division of Laboratory Systems / OneLab
+Public Health Laboratory Operations, Laboratory Systems, Biosafety & Quality Standards, OneLab Educational Framework
